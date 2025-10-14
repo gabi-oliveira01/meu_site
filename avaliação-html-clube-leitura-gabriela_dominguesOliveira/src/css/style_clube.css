@@ -1,0 +1,11 @@
+
+header
+{
+    background-color: lightgrey;
+
+}
+body{
+    background-color: lightgrey;
+    background-image: url(src);
+    background-repeat: no-repeat;
+}
